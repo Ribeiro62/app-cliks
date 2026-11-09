@@ -1,0 +1,35 @@
+[
+  {
+    "id": "95433e998e224b828854738fb88310ae",
+    "titulo": "Revisão de Matemática",
+    "curso": "Matemática",
+    "categoria": "Estudo",
+    "data": "2026-11-09",
+    "hora": "08:00",
+    "prioridade": "Alta",
+    "status": "Pendente",
+    "observacao": "Resolver exercícios de funções e derivadas."
+  },
+  {
+    "id": "1c5c33d6586e43b7b8306372e9b1e7e0",
+    "titulo": "Prova de História",
+    "curso": "História",
+    "categoria": "Prova",
+    "data": "2026-11-09",
+    "hora": "14:30",
+    "prioridade": "Alta",
+    "status": "Pendente",
+    "observacao": "Estudar capítulos 5 e 6 do livro."
+  },
+  {
+    "id": "2d9742b7930c429aaaafa1430a5c2958",
+    "titulo": "Entrega do Trabalho de Química",
+    "curso": "Química",
+    "categoria": "Trabalho",
+    "data": "2026-11-09",
+    "hora": "18:00",
+    "prioridade": "Média",
+    "status": "Pendente",
+    "observacao": "Incluir introdução, metodologia e conclusão."
+  }
+]
